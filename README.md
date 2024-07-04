@@ -1,1 +1,1 @@
-# Image-search-engine-HTML-CSS-JS-
+# Image-search-engine-HTML-CSS-JS
